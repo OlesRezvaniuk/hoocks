@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hoocks/static/css/main.7acaea2f.css",
+    "main.js": "/hoocks/static/js/main.12214ce2.js",
+    "index.html": "/hoocks/index.html",
+    "main.7acaea2f.css.map": "/hoocks/static/css/main.7acaea2f.css.map",
+    "main.12214ce2.js.map": "/hoocks/static/js/main.12214ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.12214ce2.js"
+  ]
+}
